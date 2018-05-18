@@ -1,2 +1,5 @@
 .ipynb_checkpoints
 words.txt
+__pycache__
+paths.py
+ruwikiruscorpora_skipgram_300_2_2018.vec.gz
