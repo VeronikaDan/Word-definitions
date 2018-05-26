@@ -2,4 +2,6 @@
 words.txt
 __pycache__
 paths.py
-ruwikiruscorpora_skipgram_300_2_2018.vec.gz
+araneum_none_fasttextskipgram_300_5_2018*
+data/contexts.json
+data/neologisms.json
